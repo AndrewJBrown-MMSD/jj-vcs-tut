@@ -3,4 +3,5 @@ name = "jjvcs-hello"
 version = "0.1.0"
 edition = "2024"
 
+# a random comment
 [dependencies]
